@@ -1,6 +1,6 @@
 # Lucas 
 
-soy el profe de paradgimas 
+soy el profe de paradigmas 
 - hola
 - que 
 - tal
