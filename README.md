@@ -5,4 +5,4 @@ soy el profe de paradgimas
 - que 
 - tal
 
-[una foto](lucas.jpg)
+![una foto](lucas.jpg)
